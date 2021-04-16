@@ -10,8 +10,8 @@ To install/setup:
 
 - Put *YOUR* bot token in `client.run("TOKEN HERE")`
 
+- Put a Role of *YOUR* choice in ``@commands.has_role('ROLE NAME HERE')`` <br>
+  in ``__main__.py``.
 
-Check `requirements.txt` too see what you need to `pip install`.
 
-
-<u>**PLEASE READ THE LICENSE**</u>
+_**PLEASE READ THE LICENSE!**_
