@@ -60,7 +60,8 @@ MUST:
    `-- All code linked with GPL 3.0 source code must be disclosed under a GPL 3.0 compatible license.
 
 [Include License]
-   `-- Including the full text of license in modified software.
+   `-- Including the full text of license in modified software. (AKA, you can't change the license, it
+        must be the license used here [GNU GPL V3])
 
 [Include Copyright]
    `-- Describes whether the original copyright must be retained.
@@ -73,5 +74,9 @@ Source:
 https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
 
 ==================================================================================================================
+
+Little More Information Here:
+https://github.com/Russian-Dev/PROJECT---TheHelpfulBot/blob/main/LICENSE
+
 
 ~~~!!!Disclaimer: This is only a short summary of the Full Text.!!!~~~
